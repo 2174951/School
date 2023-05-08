@@ -25,3 +25,5 @@ echo "<br><br> op 4.<br>";
 $mijnNaam = "Carl";
 $jouwNaam = "Camel";
 echo $mijnNaam . " zit bij " . $jouwNaam . " in de klas!";
+
+?>
