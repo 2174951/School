@@ -12,6 +12,7 @@
 
 <?php
 
+
 $naam = $_GET["name"];
 $achternaam = $_GET["lastname"];
 $leeftijd = $_GET["Age"];
