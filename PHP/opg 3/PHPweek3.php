@@ -18,12 +18,12 @@
 // echo '<br>';
 // echo $myArray[6];
 
-// //deel 2
-// $myArray = ['auto','fiets','brommer','bus','vliegtuig','trein'];
-// echo 'het array heeft '.count($myArray).' elementen' ;
+//deel 2
+$myArray = ['auto','fiets','brommer','bus','vliegtuig','trein'];
+echo 'het array heeft '.count($myArray).' elementen' ;
 
-// $myArray[]='helicopter';
-// echo '<br>het array heeft '.count($myArray).' elementen' ;
+$myArray[]='helicopter';
+echo '<br>het array heeft '.count($myArray).' elementen' ;
 
 
 // //deel 3 
